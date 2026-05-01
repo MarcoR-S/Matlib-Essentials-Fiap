@@ -1,9 +1,9 @@
-# 📊 Data Visualization
- com Matplotlib
+# 📊 Data Visualization com Matplotlib
+<img width="600" height="174" alt="Fiap-logo-novo" src="https://github.com/user-attachments/assets/5dd7b7ef-0460-43a8-a7b7-25eceb9b5796" />
 
 Este repositório contém uma coleção de scripts em Python para geração dos principais tipos de gráficos utilizados em Ciência de Dados.
 
-<img width="600" height="174" alt="Fiap-logo-novo" src="https://github.com/user-attachments/assets/5dd7b7ef-0460-43a8-a7b7-25eceb9b5796" />
+
 ## 🚀 Gráficos Implementados
 - **Line Chart**: Monitoramento de tendências temporais.
 - **Scatter Plot**: Análise de correlação entre variáveis.
